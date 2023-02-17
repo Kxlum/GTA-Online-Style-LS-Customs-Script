@@ -1,4 +1,4 @@
-I downloaded an LS Customs script that has a GTA Online style menu and it is very outdated however I have chose to update a lot of the options myself and I have now become stuck with what to do to fix some of these issues. 
+I just want to say I have not made this script and I do not own it. I downloaded an LS Customs script that has a GTA Online style menu and it is very outdated however I have chose to update a lot of the options myself and I have now become stuck with what to do to fix some of these issues. 
 
 ## ADDED BY ME
 - Added Utility paintjobs.
